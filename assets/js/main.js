@@ -32,14 +32,14 @@
             aiwaveJs.contactForm();
             aiwaveJs.menuCurrentLink();
             aiwaveJs.onePageNav();
-            aiwaveJs.selectPicker();
+            // aiwaveJs.selectPicker();
         },
 
 
 
-        selectPicker: function () {
-            $('select').selectpicker();
-        },
+        // selectPicker: function () {
+        //     $('select').selectpicker();
+        // },
 
 
         menuCurrentLink: function () {
