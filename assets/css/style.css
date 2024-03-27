@@ -538,7 +538,7 @@ body {
   line-height: var(--line-height-b2);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: var(--font-primary);
+  font-family:  font-family: "feather" !important;
   color: var(--color-body);
   font-weight: var(--p-regular);
   background-color: var(--color-bg-1);
@@ -584,7 +584,7 @@ h6,
 .h5,
 .h6 {
   word-break: break-word;
-  font-family: var(--secondary-font);
+  font-family: "feather" !important;
   line-height: 1.4074;
   color: var(--color-heading);
 }
@@ -715,6 +715,7 @@ p {
   line-height: var(--line-height-b1);
   font-weight: var(--p-regular);
   color: var(--color-body);
+  font-family: "feather" !important;
   margin: 0 0 30px;
 }
 @media only screen and (max-width: 767px) {
@@ -10239,6 +10240,7 @@ xclip
   transition: 0.3s;
   position: relative;
   z-index: 1;
+  font-family: "feather" !important;
 }
 .mainmenu-nav .mainmenu > li > a i {
   transition: 0.3s;
@@ -11394,6 +11396,7 @@ div.rainbow-gradient-btn span {
   color: #fff;
   font-size: 16px;
   font-weight: 500;
+  font-family: "feather" !important;
 }
 a.rainbow-gradient-btn::before, a.rainbow-gradient-btn::after,
 button.rainbow-gradient-btn::before,
@@ -15258,6 +15261,7 @@ img {
 .generator-tab-defalt .tab-pane .inner .features-section ul li {
   font-size: 24px;
   line-height: 36px;
+  font-family: "feather" !important;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .generator-tab-defalt .tab-pane .inner .features-section ul li {
@@ -16378,6 +16382,7 @@ img.mfp-img {
   line-height: 1;
   color: var(--color-primary);
   font-weight: var(--p-bold);
+  font-family: "feather" !important;
 }
 @media only screen and (max-width: 767px) {
   .error-inner h1 {
@@ -18848,7 +18853,7 @@ iframe {
     Slider Style One  
 -------------------------*/
 .slider-style-1 .inner .subtitle {
-  font-family: var(--font-primary);
+  font-family: "feather" !important;
   font-size: 18px;
   letter-spacing: 0.5px;
   display: block;
@@ -18873,7 +18878,7 @@ iframe {
   }
 }
 .slider-style-1 .inner .title {
-  font-family: var(--font-primary);
+  font-family:  font-family: "feather" !important;
   margin-bottom: 16px;
   display: inline-block;
 }
@@ -18884,7 +18889,7 @@ iframe {
   margin-bottom: 0;
 }
 .slider-style-1 .inner .description {
-  font-family: var(--font-primary);
+  font-family: "feather" !important;
   padding: 0 22%;
   font-size: 24px;
   line-height: 1.7;
@@ -19161,7 +19166,7 @@ iframe {
   box-shadow: var(--shadow-lighter);
 }
 .slider-style-2 .inner .title {
-  font-family: var(--font-primary);
+  font-family:  font-family: "feather" !important;
   margin-bottom: 25px;
   display: block;
   color: var(--color-white);
@@ -19240,7 +19245,7 @@ iframe {
   }
 }
 .slider-style-2.variation-3 .inner .title {
-  font-family: var(--font-primary);
+  font-family:  font-family: "feather" !important;
   margin-bottom: 25px;
   display: block;
   font-size: 80px;
@@ -19282,7 +19287,7 @@ iframe {
   }
 }
 .slider-style-3 .inner .title {
-  font-family: var(--font-primary);
+  font-family:  font-family: "feather" !important;
   margin-bottom: 25px;
   display: block;
   font-size: 130px;
@@ -19354,7 +19359,7 @@ iframe {
   animation-duration: 1s;
 }
 .slider-style-4 .inner .title {
-  font-family: var(--font-primary);
+  font-family:  font-family: "feather" !important;
   margin-bottom: 25px;
   display: block;
   font-size: 130px;
@@ -19446,7 +19451,7 @@ iframe {
   transform: translateY(-50%);
 }
 .slider-style-5 .inner .title {
-  font-family: var(--font-primary);
+  font-family:  font-family: "feather" !important;
   margin-bottom: 25px;
   display: block;
   font-size: 64px;
@@ -19532,7 +19537,7 @@ iframe {
   }
 }
 .slider-style-6 .inner .title {
-  font-family: var(--font-primary);
+  font-family:  font-family: "feather" !important;
   margin-bottom: 25px;
   display: block;
   font-size: 80px;
