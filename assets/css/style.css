@@ -15199,7 +15199,7 @@ img {
   height: 64px;
   display: flex;
   align-items: center;
-   */
+  gap: 16px;
 }
 .generator-tab-defalt button span img {
   width: 24px;
